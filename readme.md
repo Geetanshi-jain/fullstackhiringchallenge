@@ -2,9 +2,7 @@
 
 A premium, modern rich text editor built with Lexical, Zustand, and React.
 
-<img width="500 height="505" alt="image" src="https://github.com/user-attachments/assets/35d93e0d-08aa-4a8f-9cff-2eb75068e021" />
 
-*A professional, extensible rich text editor with Math and Table support.*
 
 ---
 
